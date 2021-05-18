@@ -1,4 +1,4 @@
-# Object Process Methodology OPCAT tool on OSX
+# Object Process Methodology OPCAT tool on OSX  [![Available on Docker Hub](https://img.shields.io/docker/pulls/ianfixes/opcat.svg)](https://hub.docker.com/r/ianfixes/opcat) [![Docker Image version](https://img.shields.io/docker/v/ianfixes/opcat.svg)](https://hub.docker.com/r/ianfixes/opcat)
 
 This project attempts to revive the [OPM OPCAT tool](http://esml.iem.technion.ac.il/opcat-installation/) on OSX, which is a bit tricky given that the software only runs on Java 8.  We work around this by [running the application in Docker and using XQuartz](https://cntnr.io/running-guis-with-docker-on-mac-os-x-a14df6a76efc)
 
